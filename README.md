@@ -1,3 +1,17 @@
+**Database download link:**  
+[Google Drive Folder](https://drive.google.com/drive/folders/15N01oPhbHRJ8X8TBsW4M1PLC1XT4qgHn)  
+
+**Steps:**  
+1. Download the database file from the link above.  
+2. Import the database into your XAMPP.  
+
+**Run the project:**  
+- Open your project directory and run the following command:  
+   ```bash
+   php artisan serve
+   ```
+- Check the local server link to access your website.  
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
